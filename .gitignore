@@ -22,4 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-docs/
+docs/質問リスト.md
+docs/設計書.md
